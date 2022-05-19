@@ -7,6 +7,7 @@ public class Main {
         System.out.println("I am Groot");
         // write your code here
        //  teamlead project
+        System.out.println("hello my friends");
 
 
 
